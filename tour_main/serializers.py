@@ -3,5 +3,5 @@ from .models import TourType
 
 class TourTypeSerializer(serializers.ModelSerializer):
     class Meta:
-        model = TourType
+        model = "TourType"
         fields = ('tour_id', 'name')
