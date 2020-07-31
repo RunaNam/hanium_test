@@ -1,8 +1,8 @@
 # hanium_insta
-[메인](https://hanium-test.herokuapp.com/)
-[선택메인화면](https://hanium-test.herokuapp.com/tour_main/)
-[선택화면](https://hanium-test.herokuapp.com/tour_main/select/) - 여기 에러남... 수정할것.
-[결과화면](https://hanium-test.herokuapp.com/tour_main/result/)
+[메인](https://hanium-test.herokuapp.com/)<br/>
+[선택메인화면](https://hanium-test.herokuapp.com/tour_main/)<br/>
+[선택화면](https://hanium-test.herokuapp.com/tour_main/select/) - 여기 에러남... 수정할것.<br/>
+[결과화면](https://hanium-test.herokuapp.com/tour_main/result/)<br/>
 
 admin 계정 : id- admin pw - 1
 
